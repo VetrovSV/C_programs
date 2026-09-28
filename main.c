@@ -3,7 +3,12 @@
 
 #include <stdio.h>
 
+void print_greetings(){
+        puts("Hello, git!");
+}
+
+
 int main(){
-    puts("Hello, git!");
+
     return 0;
 }

@@ -11,5 +11,6 @@ void print_greetings(){
 int main(){
 
     print_greetings();
+    // ла-ла-ла
     return 0;
 }

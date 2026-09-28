@@ -10,5 +10,6 @@ void print_greetings(){
 
 int main(){
 
+    print_greetings();
     return 0;
 }
